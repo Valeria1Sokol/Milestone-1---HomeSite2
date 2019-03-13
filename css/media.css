@@ -1,0 +1,302 @@
+<<<<<<< HEAD @media all and (max-width: 1024px) {
+    .peloBox img {
+        top: -1.25vw;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .navBox {
+        height: 8vh;
+        align-items: center;
+    }
+    .main h1 {
+        font-size: 3vw;
+    }
+    .main h3 {
+        font-size: 1.8vw;
+    }
+    .btn-pelo-1 h1 {
+        font-size: 1.5vw;
+    }
+    .howitworks .li1 img,
+    .howitworks .li5 img {
+        width: 14vw;
+        height: 8vw;
+    }
+    .howitworks .li3 img {
+        width: 10vw;
+        height: 10vw;
+    }
+    .howitworks .li2 img {
+        width: 4vw;
+        height: 4vw;
+    }
+    .howitworks .li4 img {
+        width: 3vw;
+        height: 2vw;
+    }
+    .finalText h2 {
+        width: 60vw;
+        font-size: 2vw;
+    }
+    footer {
+        justify-content: flex-end;
+        height: 10vw;
+    }
+}
+
+@media all and (max-width: 425px) {
+    .navBox {
+        height: 60px;
+    }
+    .menu li a {
+        font-size: 2.5vw;
+    }
+    .logo a {
+        font-size: 3.3vw;
+    }
+    .btn-login {
+        font-size: 1.6vw;
+        padding: 3px 11px;
+    }
+    .main h1 {
+        font-size: 6.5vw;
+        text-align: center;
+    }
+    .main h3 {
+        font-size: 5.5vw;
+        width: 93vw;
+        text-align: center;
+    }
+    .btn-pelo-1 h1 {
+        font-size: 3vw;
+    }
+    .navMenu {
+        width: 95vw;
+    }
+    .menu {
+        width: 50%;
+    }
+    .btn-info {
+        margin: 55px auto;
+        height: 7vw;
+        padding: 8px 16px;
+        width: 48vw;
+    }
+    .peloBox img {
+        top: -1.7vw;
+        left: -8vw;
+        width: 8.3vw;
+    }
+    .inner h1 {
+        font-size: 7vw;
+    }
+    .btn-pelo-1 h1 {
+        left: 6px;
+    }
+    footer {
+        height: 15vw;
+        justify-content: center;
+    }
+    .finalText h2 {
+        width: 84vw;
+        font-size: 4.2vw;
+    }
+    .final {
+        padding-top: 12vw;
+    }
+    h5 {
+        color: #ffffff;
+        font-size: 1.2vw;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+}
+
+@media (max-width: 320px) {
+    .peloBox img {
+        top: -3vw;
+        width: 5.8vw;
+    }
+}
+
+=======@media all and (max-width: 1024px) {
+    .peloBox img {
+        top: -1.25vw;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .navBox {
+        height: 8vh;
+        align-items: center;
+    }
+    .main h1 {
+        font-size: 3vw;
+    }
+    .main h3 {
+        font-size: 1.8vw;
+    }
+    .btn-pelo-1 h1 {
+        font-size: 1.5vw;
+    }
+    .howitworks .li1 img,
+    .howitworks .li5 img {
+        width: 10vw;
+        height: 6vw;
+    }
+    .howitworks .li3 img {
+        width: 8vw;
+        height: 8vw;
+    }
+    .howitworks .li2 img {
+        width: 4vw;
+        height: 4vw;
+    }
+    .howitworks .li4 img {
+        width: 3vw;
+        height: 2vw;
+    }
+    .finalText h2 {
+        width: 60vw;
+        font-size: 2vw;
+    }
+    footer {
+        justify-content: flex-end;
+        height: 10vw;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .main h1 {
+        padding-top: 3vw;
+    }
+}
+
+@media all and (max-width: 425px) {
+    .thirdPage {
+        min-height: 600px;
+    }
+    .secondPage {
+        min-height: 553px;
+    }
+    .navBox {
+        height: 60px;
+    }
+    .menu li a {
+        font-size: 2.9vw;
+    }
+    .logo a {
+        font-size: 3.3vw;
+    }
+    footer .logo a {
+        font-size: 225%;
+    }
+    .btn-login {
+        font-size: 1.6vw;
+        padding: 3px 11px;
+    }
+    .main h1 {
+        font-size: 250%;
+        text-align: center;
+        width: 352px;
+    }
+    .main h3 {
+        font-size: 133%;
+        width: 322px;
+        text-align: center;
+    }
+    .logInLink {
+        height: 29px
+    }
+    .btn-pelo-1 h1 {
+        font-weight: 800;
+        font-size: 130%;
+    }
+    .navMenu {
+        width: 95vw;
+    }
+    .menu {
+        width: 55%;
+    }
+    .btn-info {
+        margin: 30px auto 81px;
+        padding: 8px 16px;
+        min-width: 250px;
+        width: 30%;
+        height: 70px;
+    }
+    .peloBox img {
+        width: 85px;
+        left: 81px;
+        top: -22.5px;
+    }
+    .final .peloBox img {
+    width: 85px;
+    left: 9px;
+    top: -22.5px;
+}
+    .inner h1 {
+        font-size: 200%;
+        font-weight: 600;
+    }
+    .inner h2 {
+        width: 87vw;
+        font-size: 145%;
+        text-shadow: none;
+        font-weight: 500;
+        text-align: center;
+    }
+    .btn-pelo-1 h1 {
+        left: 6px;
+        padding-top: 0px;
+    }
+    footer {
+        height: 160px;
+        justify-content: center;
+    }
+    .finalText h2 {
+        width: 86vw;
+        font-size: 155%;
+    }
+    .final {
+        padding-top: 12vw;
+    }
+    h5 {
+        color: #ffffff;
+        font-size: 100%;
+        margin-bottom: 15px;
+        margin-top: 5px;
+    }
+    .howitworks .li1 img,
+    .howitworks .li5 img {
+        width: 20vw;
+        height: 11vw;
+    }
+    .howitworks .li3 img {
+        width: 13vw;
+        height: 13vw;
+    }
+    .main h3 {
+        text-shadow: 2px 1px 4px black;
+    }
+    .main h3 span {
+        font-weight: 500;
+        text-transform: uppercase;
+        cursor: pointer;
+        letter-spacing: 1px;
+        text-shadow: 2px 2px 6px rgb(0, 0, 0);
+    }
+    .main h3 span {
+        font-weight: bold;
+        text-shadow: 2px 2px 6px rgba(11, 11, 11, 0.52);
+    }
+}
+
+@media (max-width: 320px) {
+    .logInLink {
+        height: 26px;
+    }
+}
+
+>>>>>>> e5e1dd37ac890372466c2728b9e5afb1299a7b0d
